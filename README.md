@@ -2,7 +2,7 @@
 
 #### Me gusta el frontend developer, soy ingeniero de sistemas y me encanta el desarrollo
 
-Tengo mucho interés de aprender cada día más sobre las tecnologías y trabajar con responsabilidad, compromiso, liderazgo, en equipo, me gustan los retos, siempre buscando la mejoría continúa y apertura al cambio.
+Tengo mucho interés de aprender cada día más sobre las tecnologías y trabajar con responsabilidad, compromiso, liderazgo, en equipo, me gustan los retos, siempre busco la mejoría continúa y apertura al cambio.
 
 * 👨‍💻 En la pagina está mi HV y en projects están algunos de los proyectos que he realizado **[https://carlos-andres-arenas-cv.netlify.app/](https://carlos-andres-arenas-cv.netlify.app/)**
 
