@@ -1,5 +1,7 @@
-### 👋 Hi, I am Carlos Andres Arenas Mejia 👱‍♂️ 🧒 👨‍🦱 🙂 👨‍💻👨‍💻
-### I like frontend developer from Colombia 
+### 👋 🙂 Hi, I'm Carlos Andres Arenas Mejia  👨‍🦱 💻 👨‍💻
+____________________________________________________
+
+#### I like frontend developer  
 <!--
 **caarenasm/caarenasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
