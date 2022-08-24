@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 🙂 Hola, Soy Carlos Andres Arenas Mejia  👨‍🦱 💻 👨‍💻<h1>
+<h1 align="center"> 👋 Hola, Soy Carlos Andres Arenas Mejia  👨‍🦱 💻 👨‍💻<h1>
 
 #### Me gusta el frontend developer, soy ingeniero de sistemas y me encanta el desarrollo
 
