@@ -4,7 +4,7 @@
 
 Tengo mucho interés de aprender cada día más sobre las tecnologías y trabajar con responsabilidad, compromiso, liderazgo, en equipo, me gustan los retos, siempre busco la mejoría continúa y apertura al cambio.
 
-* 👉 En el siguiente README voy a listar las tecnologías que he visto en mi carrera sea por proyecto empresarial o entrenamiento (personal)
+* 👉 En el siguiente **README** voy a listar las tecnologías que he visto en mi carrera sea por proyecto empresarial o entrenamiento (personal)
  
 * 👨‍💻 En la pagina está mi HV y en projects están algunos de los proyectos que he realizado **[https://carlos-andres-arenas-cv.netlify.app/](https://carlos-andres-arenas-cv.netlify.app/)**
 
