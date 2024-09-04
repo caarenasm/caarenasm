@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hola, Soy Carlos Andres Arenas Mejia  👨‍🦱 💻 👨‍💻<h1>
 
-#### Me gusta el frontend developer, soy ingeniero de sistemas y me apasiona el desarrollo
+#### Me gusta el developer frontend, soy ingeniero de sistemas y me apasiona el desarrollo
 
 Tengo mucho interés de aprender cada día más sobre las tecnologías y trabajar con responsabilidad, compromiso, liderazgo, en equipo, me gustan los retos, siempre busco la mejoría continúa y apertura al cambio.
 
