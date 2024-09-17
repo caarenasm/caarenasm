@@ -2,7 +2,7 @@
 
 #### Me gusta el developer frontend, soy ingeniero de sistemas y me apasiona el desarrollo
 
-Tengo mucho interés de aprender cada día más sobre las tecnologías y trabajar con responsabilidad, compromiso, liderazgo, en equipo, me gustan los retos, siempre busco la mejoría continúa y apertura al cambio.
+Mi objetivo profesional es seguir creciendo y aprendiendo cada día, abordando cada reto con responsabilidad, compromiso y un enfoque proactivo. Me apasiona trabajar en equipo, fomentando un liderazgo positivo que promueva la colaboración y el desarrollo mutuo. Soy una persona orientada a la mejora continúa, siempre buscando oportunidades para optimizar procesos y resultados, manteniendo una actitud abierta al cambio y la innovación. Los desafíos no solo me motivan, sino que me impulsan a superar mis límites, adquiriendo nuevas habilidades y conocimientos que aplico en cada proyecto con el fin. de aportar soluciones de calidad y generar valor en cada organización con la que colabora.
 
 * 👉 En el siguiente **README** voy a listar las tecnologías que he visto en mi carrera sea por proyecto empresarial o entrenamiento (personal)
  
