@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hola, Soy Carlos Andres Arenas Mejia  👨‍🦱 💻 👨‍💻<h1>
 
-#### Me gusta el developer frontend, soy ingeniero de sistemas y me apasiona el desarrollo
+#### Me gusta el developer software, soy ingeniero de sistemas y me apasiona el desarrollo
 
 Mi objetivo profesional es seguir creciendo y aprendiendo cada día, abordando cada reto con responsabilidad, compromiso y un enfoque proactivo. Me apasiona trabajar en equipo, fomentando un liderazgo positivo que promueva la colaboración y el desarrollo mutuo. Soy una persona orientada a la mejora continúa, siempre buscando oportunidades para optimizar procesos y resultados, manteniendo una actitud abierta al cambio y la innovación. Los desafíos no solo me motivan, sino que me impulsan a superar mis límites, adquiriendo nuevas habilidades y conocimientos que aplico en cada proyecto con el fin. de aportar soluciones de calidad y generar valor en cada organización con la que colabora.
 
